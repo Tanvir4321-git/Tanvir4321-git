@@ -80,15 +80,18 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir4321-git&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir4321-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tanvir's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir4321-git&layout=compact&theme=tokyonight&hide_border=true" alt="Tanvir's Top Languages" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir4321-git&theme=radical&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir4321-git&theme=tokyonight&hide_border=true" alt="Tanvir's Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir4321-git&layout=compact&theme=radical&hide_border=true" />
+<p align="left">
+  <a href="https://github.com/Tanvir4321-git/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir4321-git&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Tanvir's activity graph" width="100%" />
+  </a>
 </p>
 
