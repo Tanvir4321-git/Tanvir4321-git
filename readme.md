@@ -46,7 +46,7 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40">
   </a>
-  <a href="https://wa.me/YOUR_NUMBER" target="_blank">
+  <a href="https://wa.me/+8801626015801" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="40">
   </a>
 </p>
