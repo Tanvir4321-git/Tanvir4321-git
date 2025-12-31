@@ -33,7 +33,7 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
   <img alt="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
-## **Other Technologies 🛠️**
+## Other Technologies 🛠️
 
 <br/>
 
