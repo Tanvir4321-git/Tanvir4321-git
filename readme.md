@@ -35,7 +35,7 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
 </p>
 <h2><strong>Other Technologies 🛠️</strong></h2>
 
-<br/>
+
 
 <p align="left">
   <a href="https://tailwindcss.com/" target="_blank">
