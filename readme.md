@@ -37,10 +37,20 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
 
 ## 📫 Connect with me
 <p>
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tanvir4321-git)
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/mdabdullahaltanvir)
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/your-twitter)
+  <a href="https://github.com/Tanvir4321-git" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/mdabdullahaltanvir" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40">
+  </a>
+  <a href="https://wa.me/YOUR_NUMBER" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="40">
+  </a>
 </p>
+
 
 ---
 
