@@ -86,3 +86,4 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir4321-git&theme=radical" alt="GitHub Streak" />
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
