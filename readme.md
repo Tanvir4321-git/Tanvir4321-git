@@ -1,4 +1,6 @@
-![MERN Stack Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<p align="center">
+  <img src="banner.png" alt="MERN Stack Developer Banner" width="100%">
+</p>
 
 ## Hi there 👋, Md Abdullah Al Tanvir
 ### MERN Stack Developer.
