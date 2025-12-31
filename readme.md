@@ -36,20 +36,21 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
 ---
 
 ## 📫 Connect with me
-<p>
-  <a href="https://github.com/Tanvir4321-git" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
+<p align="center">
+  <a href="https://github.com/Tanvir4321-git" target="_blank" style="margin:0 10px">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="50" width="50" style="filter:invert(0.2);">
   </a>
-  <a href="https://www.linkedin.com/in/mdabdullahaltanvir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+  <a href="https://www.linkedin.com/in/mdabdullahaltanvir" target="_blank" style="margin:0 10px">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="50" width="50" style="filter:invert(0.15) sepia(1) saturate(5) hue-rotate(200deg);">
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40">
+  <a href="https://twitter.com/your-twitter" target="_blank" style="margin:0 10px">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="50" width="50" style="filter:invert(0.55) sepia(1) saturate(4) hue-rotate(170deg);">
   </a>
-  <a href="https://wa.me/+8801626015801" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="40">
+  <a href="https://wa.me/+8801626015801" target="_blank" style="margin:0 10px">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="50" width="50" style="filter:invert(0.3) sepia(1) saturate(5) hue-rotate(90deg);">
   </a>
 </p>
+
 
 
 ---
