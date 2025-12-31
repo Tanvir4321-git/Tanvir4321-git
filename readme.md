@@ -33,23 +33,23 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
   <img alt="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
-### 🛠️ Other Technologies
+## 🛠️ Other Technologies
 
 <p align="left">
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://daisyui.com/" target="_blank">
-    <img src="https://img.shields.io/badge/daisyui-%235AD7E4.svg?style=for-the-badge&logo=daisyui&logoColor=black" alt="daisyUI">
+    <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="daisyUI" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 </p>
 ---
