@@ -12,6 +12,7 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
 ## 🔭 Current Activities
 - I’m currently working on an **e-commerce website**
 - I’m exploring **Next.js**
+- Focus on **Full stack development**
 
 ---
 
