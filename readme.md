@@ -78,20 +78,53 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir4321-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tanvir's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir4321-git&layout=compact&theme=tokyonight&hide_border=true" alt="Tanvir's Top Languages" height="180px" />
+<div align="center">
+
+## 🎯 Profile Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashikurahman1&theme=nightowl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashikurahman1&theme=nightowl&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurahman1&theme=nightowl&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8)
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashikurahman1&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashikurahman1)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ashikurahman1&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+## 📊 Profile Insights
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ashikurahman1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ashikurahman1?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir4321-git&theme=tokyonight&hide_border=true" alt="Tanvir's Streak" />
+---
+
+### 💡 Quick Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashikurahman1&theme=github_dark)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashikurahman1&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashikurahman1&theme=github_dark" alt="Most Commit Language" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/Tanvir4321-git/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir4321-git&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Tanvir's activity graph" width="100%" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashikurahman1&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashikurahman1&theme=github_dark&utcOffset=6" alt="Productive Time" />
 </p>
 
+---
+
+<img src="https://raw.githubusercontent.com/ashikurahman1/ashikurahman1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
