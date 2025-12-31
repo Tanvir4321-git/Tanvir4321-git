@@ -78,12 +78,17 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir4321-git&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir4321-git&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir4321-git&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir4321-git&theme=radical&hide_border=true" />
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir4321-git&layout=compact&theme=radical&hide_border=true" />
+</p>
+
