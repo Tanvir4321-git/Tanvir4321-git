@@ -36,18 +36,19 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
 ---
 
 ## 📫 Connect with me
-<p align="center">
-  <a href="https://github.com/Tanvir4321-git" target="_blank" style="margin:0 10px">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="50" width="50" style="filter:invert(0.2);">
+
+<p align="left">
+  <a href="https://github.com/Tanvir4321-git" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/mdabdullahaltanvir" target="_blank" style="margin:0 10px">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="50" width="50" style="filter:invert(0.15) sepia(1) saturate(5) hue-rotate(200deg);">
+  <a href="https://www.linkedin.com/in/mdabdullahaltanvir" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank" style="margin:0 10px">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="50" width="50" style="filter:invert(0.55) sepia(1) saturate(4) hue-rotate(170deg);">
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://wa.me/+8801626015801" target="_blank" style="margin:0 10px">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="50" width="50" style="filter:invert(0.3) sepia(1) saturate(5) hue-rotate(90deg);">
+  <a href="https://wa.me/+8801626015801" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
