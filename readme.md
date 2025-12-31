@@ -33,7 +33,9 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
   <img alt="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
-## Other Technologies 🛠️
+## **Other Technologies 🛠️**
+
+<br/>
 
 <p align="left">
   <a href="https://tailwindcss.com/" target="_blank">
@@ -52,6 +54,7 @@ I’m a Frontend-focused MERN Stack Developer with hands-on experience in React.
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 </p>
+
 ---
 
 ## 📫 Connect with me
