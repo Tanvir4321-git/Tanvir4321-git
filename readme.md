@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="MERN Stack Developer Banner" width="100%">
+  <img src="banner.png" alt="MERN Stack Developer Banner" width="100%">
 </p>
 
 ## Hi there 👋, Md Abdullah Al Tanvir
